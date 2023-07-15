@@ -12,4 +12,4 @@ PSML is Roblox League created and founded back in 2020 by KyKross, PSML have its
 
 # Invite Link : https://discord.gg/u4QSP8AQ
 
-# © Copyrigh PSML 2023
+# © Copyright PSML 2023
