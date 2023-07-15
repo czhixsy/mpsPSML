@@ -1,0 +1,26 @@
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local events = replicatedStorage:WaitForChild("Events")
+
+--//
+local reactdecline = events:WaitForChild("ReactDecline")
+local ReactDeclined = events:WaitForChild("ReactDeclined")
+local hitbox = events:WaitForChild("HitBox")
+local speed = events:WaitForChild("Speed")
+local bypass = events:WaitForChild("Bypass")
+local check = events:WaitForChild("Check")
+local ballres = events:WaitForChild("BallResize")
+local autocatch = events:WaitForChild("AutoCatch")
+local autocatchwarn = events:WaitForChild("AutoCatchWarn")
+local bigfoot = events:WaitForChild("BigFoot")
+local ReactDecliner = events:WaitForChild("ReactDecliner")
+local ReactDecliner2 = events:WaitForChild("ReactDecliner2")
+local Message1 = events:WaitForChild("Message1")
+local antiSpam = events:WaitForChild("AntiSpam")
+
+
+local catchBall = replicatedStorage:WaitForChild("CatchBall")
+local changeKit = replicatedStorage:WaitForChild("ChangeKit")
+local changeOwner = replicatedStorage:WaitForChild("ChangeOwner")
+local dropBall = replicatedStorage:WaitForChild("DropBall")
+local EditLimb = replicatedStorage:WaitForChild("EditLimb")
+local ResetWelds = replicatedStorage:WaitForChild("ResetWelds")
